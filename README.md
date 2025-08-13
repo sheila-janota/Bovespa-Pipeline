@@ -30,6 +30,6 @@ Posicionamento Estratégico: Superar o IBOV reforça a atratividade para fundos 
 Inovação: Incorporar técnicas de IA e ML pode otimizar retornos e garantir vantagem competitiva.
 
 ## 📊 Visualização
-![Carteiras](images/carteiras.png)
-![Heatmap da Correlação](images/heatmap.png)
-![Fronteira Eficiente](images/fronteira_eficiente.png)
+![Carteiras](imagens/carteiras.png)
+![Heatmap da Correlação](imagens/heatmap.png)
+![Fronteira Eficiente](imagens/fronteira_eficiente.png)
